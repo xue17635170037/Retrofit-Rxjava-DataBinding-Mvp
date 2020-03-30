@@ -1,2 +1,2 @@
-include ':benbenclient', ':ui'
+include ':app', ':ui'
 rootProject.name='kotlin_benbenAndroid'
