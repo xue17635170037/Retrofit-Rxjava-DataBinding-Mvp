@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#5AB13B</color>
+    <color name="colorAccentDark">#d08700</color>
+    <color name="colorAccentLight">#FFB048</color>
+    <color name="colorPrimaryLight">#696969</color>
+    <color name="colorRefreshlayout">#F7F7F7</color>
+    <!---->
+    <color name="color_defut_font">#A2A2A2</color>
+    <color name="color_twelve_black">#000000</color>
+    <color name="color_twelve_white">#ffffff</color>
+    <color name="color_twelve_silver">#cccccc</color>
+    <color name="color_twelve_red">#ff694c</color>
+    <color name="color_twelve_orange">#f4a73b</color>
+    <color name="color_twelve_yellow">#fff92e</color>
+    <color name="color_twelve_green">#41784e</color>
+    <color name="color_twelve_cyan">#999e26</color>
+    <color name="color_twelve_blue">#207bd8</color>
+    <color name="color_twelve_purple">#612e73</color>
+    <color name="color_twelve_pink">#cc206c</color>
+    <color name="color_twelve_brown">#d6ae7b</color>
+    <color name="color_twelve_other">#ffffff</color>
+    <color name="color_traver_start">#29cc5f</color>
+    <color name="color_traver_end">#ff8000</color>
+    <color name="color_traver_nav">#ffc000</color>
+    <color name="color_custormer_bg">#F5F5F5</color>
+    <color name="color_url">#0d18f2</color>
+    <color name="color_grenn">#5AB13B</color>
+    <color name="color_grenntow">#7BC644</color>
+</resources>
